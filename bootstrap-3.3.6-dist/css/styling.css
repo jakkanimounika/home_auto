@@ -1,0 +1,25 @@
+
+body{
+    padding: 10px;
+}
+
+.myborder{
+
+    border: 1px solid;
+}
+
+
+.panel-default > .panel-heading > .panel-title {
+    color: purple;
+
+}
+.panel-info > .panel-heading > .panel-title{
+
+    color: blue;
+}
+.fa-television{
+    color: black;
+}
+.fa-lightbulb-o{
+   color: gold;
+}
